@@ -1,0 +1,6 @@
+name = "Assert-Comment-Returns"
+badges = ["travis"]
+authority="cpan:AKIYM"
+
+module_maker="ModuleBuildTiny"
+
